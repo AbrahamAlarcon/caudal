@@ -32,6 +32,7 @@ The script will automatically use R to download the data for the Riñihue statio
 2. **Download the streamflow data:**
    - Download the file: `2_CAMELScl_streamflow_m3s.zip`
    - This contains streamflow data in m³/s for all stations
+   - If not working, use https://explorador.cr2.cl/ to extract data manually since 1960
 
 3. **Set up the data directory:**
    ```bash
